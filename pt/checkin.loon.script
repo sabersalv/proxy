@@ -1,0 +1,6 @@
+http-request ^https?:\/\/broadcasthe\.net\/.*cookie script-path=https://raw.githubusercontent.com/sabersalv/proxy/master/pt/checkin.js, tag=BTN签到Cookie
+http-request ^https?:\/\/passthepopcorn\.me\/.*cookie script-path=https://raw.githubusercontent.com/sabersalv/proxy/master/pt/checkin.js, tag=PTP签到Cookie
+
+cron "0 8 * * 1", script-path=https://raw.githubusercontent.com/sabersalv/proxy/master/pt/checkin.js, tag=PT签到
+
+hostname = broadcasthe.net, passthepopcorn.me

@@ -1,0 +1,24 @@
+[URL Rewrite]
+
+# gh (Github)
+^https:\/\/duckduckgo.com\/\?q=gh(\+|%20)([^&]+).+ https://github.com/search?q=$2 302
+
+# tb (Taobao)
+^https:\/\/duckduckgo.com\/\?q=tb(\+|%20)([^&]+).+ https://s.taobao.com/search?q=$2 302
+# jd (JingDong)
+^https:\/\/duckduckgo.com\/\?q=jd(\+|%20)([^&]+).+ https://search.jd.com/Search?keyword=$2 302
+
+# tw (Twitter)
+^https:\/\/duckduckgo.com\/\?q=tw(\+|%20)([^&]+).+ https://twitter.com/search?q=$2 302
+
+# b (百度)
+^https:\/\/duckduckgo.com\/\?q=b(\+|%20)([^&]+).+ https://www.baidu.com/s?wd=$2 302
+
+# yd (有道词典)
+^https:\/\/duckduckgo.com\/\?q=yd(\+|%20)([^&]+).+ https://dict.youdao.com/search?q=$2 302
+
+# default (Google)
+^https://duckduckgo.com/\?q=([^&]+).+ https://www.google.com/search?q=$1 302
+
+[MITM]
+hostname = duckduckgo.com

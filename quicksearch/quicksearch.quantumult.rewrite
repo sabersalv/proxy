@@ -1,0 +1,13 @@
+hostname = duckduckgo.com
+
+# tw (Twitter)
+^https:\/\/duckduckgo.com\/\?q=tw(\+|%20)([^&]+).+ url 302 https://twitter.com/search?q=$2 
+
+# b (百度)
+^https:\/\/duckduckgo.com\/\?q=b(\+|%20)([^&]+).+ url 302 https://www.baidu.com/s?wd=$2
+
+# yd (有道词典)
+^https:\/\/duckduckgo.com\/\?q=yd(\+|%20)([^&]+).+ url 302 https://dict.youdao.com/search?q=$2
+
+# default (Google)
+^https://duckduckgo.com/\?q=([^&]+).+ url 302 https://www.google.com/search?q=$1
