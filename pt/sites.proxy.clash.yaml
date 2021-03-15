@@ -1,24 +1,6 @@
 payload:
   # Foreign
-  - DOMAIN-SUFFIX, broadcasthe.net
-  - DOMAIN-SUFFIX, passthepopcorn.me
-  - DOMAIN-SUFFIX, ptpimg.me
-  # slow
-  # - DOMAIN-SUFFIX, blutopia.xyz
-  - DOMAIN-SUFFIX, redacted.ch
-  - DOMAIN-SUFFIX, orpheus.network
-  - DOMAIN-SUFFIX, gazellegames.net
-  - DOMAIN-SUFFIX, animebytes.tv
-  - DOMAIN-SUFFIX, bakabt.me
-  - DOMAIN-SUFFIX, animetorrents.me
-  - DOMAIN-SUFFIX, bibliotik.me
-  - DOMAIN-SUFFIX, thegeeks.click
-  - DOMAIN-SUFFIX, myanonamouse.net
-  - DOMAIN-SUFFIX, bitme.org
-  - DOMAIN-SUFFIX, bitspyder.net
-  - DOMAIN-SUFFIX, hdbits.org
-  - DOMAIN-SUFFIX, brokenstones.club
-  - DOMAIN-SUFFIX, beyond-hd.me
+  - DOMAIN-SUFFIX, blutopia.xyz 
   # CN
   - DOMAIN-SUFFIX, m-team.cc
   - DOMAIN-SUFFIX, pterclub.com
