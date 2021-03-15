@@ -1,5 +1,8 @@
 payload:
-  # Foreign
+  - DOMAIN-SUFFIX, aliyuncs.com
+  - DOMAIN-SUFFIX, testmyipv6.com
+  - DOMAIN-SUFFIX, smtcdns.com # 腾讯视频Web
+  # PT
   - DOMAIN-SUFFIX, broadcasthe.net
   - DOMAIN-SUFFIX, passthepopcorn.me
   - DOMAIN-SUFFIX, redacted.ch
@@ -16,3 +19,5 @@ payload:
   - DOMAIN-SUFFIX, hdbits.org
   - DOMAIN-SUFFIX, brokenstones.club
   - DOMAIN-SUFFIX, beyond-hd.me
+
+
