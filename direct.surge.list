@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX, aliyuncs.com
 DOMAIN-SUFFIX, testmyipv6.com
 DOMAIN-SUFFIX, smtcdns.com # 腾讯视频Web
+DOMAIN-SUFFIX, tencent-cloud.com # QQ
 # PT
 DOMAIN-SUFFIX, broadcasthe.net
 DOMAIN-SUFFIX, passthepopcorn.me
@@ -18,4 +19,4 @@ DOMAIN-SUFFIX, bitspyder.net
 DOMAIN-SUFFIX, hdbits.org
 DOMAIN-SUFFIX, brokenstones.club
 DOMAIN-SUFFIX, beyond-hd.me
-
+DOMAIN-SUFFIX, irc.p2p-network.net

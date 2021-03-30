@@ -1,7 +1,7 @@
 payload:
-  # Foreign
-  - DOMAIN-SUFFIX, blutopia.xyz 
-  # CN
+  - DOMAIN-SUFFIX, zhs.tw
+  # PT
+  - DOMAIN-SUFFIX, blutopia.xyz  # slow
   - DOMAIN-SUFFIX, m-team.cc
   - DOMAIN-SUFFIX, pterclub.com
   - DOMAIN-SUFFIX, beitai.pt
