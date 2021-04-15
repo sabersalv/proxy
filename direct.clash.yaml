@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX, testmyipv6.com
   - DOMAIN-SUFFIX, smtcdns.com # 腾讯视频Web
   - DOMAIN-SUFFIX, tencent-cloud.com # QQ
+  - DOMAIN-SUFFIX, oray.net # 向日葵
+  - DOMAIN-SUFFIX, oray.com # 向日葵
   # PT
   - DOMAIN-SUFFIX, broadcasthe.net
   - DOMAIN-SUFFIX, passthepopcorn.me
