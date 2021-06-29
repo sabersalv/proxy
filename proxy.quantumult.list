@@ -1,29 +1,29 @@
-DOMAIN-SUFFIX, store.steampowered.com
-DOMAIN-SUFFIX, zhs.tw
+DOMAIN-SUFFIX, store.steampowered.com, Proxy
+DOMAIN-SUFFIX, zhs.tw, Proxy
 # PT
-DOMAIN-SUFFIX, blutopia.xyz
-DOMAIN-SUFFIX, m-team.cc
-DOMAIN-SUFFIX, pterclub.com
-DOMAIN-SUFFIX, beitai.pt
-DOMAIN-SUFFIX, btschool.club
-DOMAIN-SUFFIX, hdpost.top
-DOMAIN-SUFFIX, hd.ai
-DOMAIN-SUFFIX, hdarea.co
-DOMAIN-SUFFIX, soulvoice.club
-DOMAIN-SUFFIX, www.haidan.video
-DOMAIN-SUFFIX, hdsky.me
-DOMAIN-SUFFIX, hdchina.org
-DOMAIN-SUFFIX, totheglory.im
-DOMAIN-SUFFIX, ourbits.club
-DOMAIN-SUFFIX, springsunday.net
-DOMAIN-SUFFIX, keepfrds.com
-DOMAIN-SUFFIX, hdhome.org
-DOMAIN-SUFFIX, eastgame.org
-DOMAIN-SUFFIX, dmhy.org
-DOMAIN-SUFFIX, chdbits.co
-DOMAIN-SUFFIX, tskscn.org
-DOMAIN-SUFFIX, pthome.net
-DOMAIN-SUFFIX, hddolby.com
-DOMAIN-SUFFIX, lemonhd.org
-DOMAIN-SUFFIX, skyey2.com
-DOMAIN-SUFFIX, greatposterwall.com
+DOMAIN-SUFFIX, blutopia.xyz, Proxy
+DOMAIN-SUFFIX, m-team.cc, Proxy
+DOMAIN-SUFFIX, pterclub.com, Proxy
+DOMAIN-SUFFIX, beitai.pt, Proxy
+DOMAIN-SUFFIX, btschool.club, Proxy
+DOMAIN-SUFFIX, hdpost.top, Proxy
+DOMAIN-SUFFIX, hd.ai, Proxy
+DOMAIN-SUFFIX, hdarea.co, Proxy
+DOMAIN-SUFFIX, soulvoice.club, Proxy
+DOMAIN-SUFFIX, www.haidan.video, Proxy
+DOMAIN-SUFFIX, hdsky.me, Proxy
+DOMAIN-SUFFIX, hdchina.org, Proxy
+DOMAIN-SUFFIX, totheglory.im, Proxy
+DOMAIN-SUFFIX, ourbits.club, Proxy
+DOMAIN-SUFFIX, springsunday.net, Proxy
+DOMAIN-SUFFIX, keepfrds.com, Proxy
+DOMAIN-SUFFIX, hdhome.org, Proxy
+DOMAIN-SUFFIX, eastgame.org, Proxy
+DOMAIN-SUFFIX, dmhy.org, Proxy
+DOMAIN-SUFFIX, chdbits.co, Proxy
+DOMAIN-SUFFIX, tskscn.org, Proxy
+DOMAIN-SUFFIX, pthome.net, Proxy
+DOMAIN-SUFFIX, hddolby.com, Proxy
+DOMAIN-SUFFIX, lemonhd.org, Proxy
+DOMAIN-SUFFIX, skyey2.com, Proxy
+DOMAIN-SUFFIX, greatposterwall.com, Proxy

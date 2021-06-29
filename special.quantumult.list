@@ -1,1 +1,2 @@
-DOMAIN-SUFFIX, torrentinvites.org # blocked in nexitally
+# blocked in nexitally
+DOMAIN-SUFFIX, torrentinvites.org, Proxy
