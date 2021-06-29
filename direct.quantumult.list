@@ -1,38 +1,36 @@
-DOMAIN-SUFFIX, aliyun.com
-DOMAIN-SUFFIX, aliyuncs.com
-DOMAIN-SUFFIX, testmyipv6.com
-# 腾讯视频Web
-DOMAIN-SUFFIX, smtcdns.com 
-# QQ
-DOMAIN-SUFFIX, tencent-cloud.com
+DOMAIN-SUFFIX, aliyun.com, DIRECT, DIRECT
+DOMAIN-SUFFIX, aliyuncs.com, DIRECT
+DOMAIN-SUFFIX, testmyipv6.com, DIRECT
+# 腾讯视频Web, QQ
+DOMAIN-SUFFIX, smtcdns.com , DIRECT
+DOMAIN-SUFFIX, tencent-cloud.com, DIRECT
 # 向日葵
-DOMAIN-SUFFIX, oray.net
-# 向日葵
-DOMAIN-SUFFIX, oray.com
+DOMAIN-SUFFIX, oray.net, DIRECT
+DOMAIN-SUFFIX, oray.com, DIRECT
 # PT
-DOMAIN-SUFFIX, broadcasthe.net
-DOMAIN-SUFFIX, passthepopcorn.me
-DOMAIN-SUFFIX, redacted.ch
-DOMAIN-SUFFIX, orpheus.network
-DOMAIN-SUFFIX, gazellegames.net
-DOMAIN-SUFFIX, animebytes.tv
-DOMAIN-SUFFIX, bakabt.me
-DOMAIN-SUFFIX, animetorrents.me
-DOMAIN-SUFFIX, bibliotik.me
-DOMAIN-SUFFIX, thegeeks.click
-DOMAIN-SUFFIX, myanonamouse.net
-DOMAIN-SUFFIX, bitme.org
-DOMAIN-SUFFIX, bitspyder.net
-DOMAIN-SUFFIX, hdbits.org
-DOMAIN-SUFFIX, brokenstones.club
-DOMAIN-SUFFIX, beyond-hd.me
-DOMAIN-SUFFIX, baconbits.org
-DOMAIN-SUFFIX, irc.p2p-network.net
-DOMAIN-SUFFIX, irc.rippy.rip
-DOMAIN-SUFFIX, morethantv.me
-DOMAIN-SUFFIX, alpharatio.cc
-DOMAIN-SUFFIX, nebulance.io
-DOMAIN-SUFFIX, anthelion.me
-DOMAIN-SUFFIX, avistaz.to
-DOMAIN-SUFFIX, cinemaz.to
-DOMAIN-SUFFIX, filelist.io
+DOMAIN-SUFFIX, broadcasthe.net, DIRECT
+DOMAIN-SUFFIX, passthepopcorn.me, DIRECT
+DOMAIN-SUFFIX, redacted.ch, DIRECT
+DOMAIN-SUFFIX, orpheus.network, DIRECT
+DOMAIN-SUFFIX, gazellegames.net, DIRECT
+DOMAIN-SUFFIX, animebytes.tv, DIRECT
+DOMAIN-SUFFIX, bakabt.me, DIRECT
+DOMAIN-SUFFIX, animetorrents.me, DIRECT
+DOMAIN-SUFFIX, bibliotik.me, DIRECT
+DOMAIN-SUFFIX, thegeeks.click, DIRECT
+DOMAIN-SUFFIX, myanonamouse.net, DIRECT
+DOMAIN-SUFFIX, bitme.org, DIRECT
+DOMAIN-SUFFIX, bitspyder.net, DIRECT
+DOMAIN-SUFFIX, hdbits.org, DIRECT
+DOMAIN-SUFFIX, brokenstones.club, DIRECT
+DOMAIN-SUFFIX, beyond-hd.me, DIRECT
+DOMAIN-SUFFIX, baconbits.org, DIRECT
+DOMAIN-SUFFIX, irc.p2p-network.net, DIRECT
+DOMAIN-SUFFIX, irc.rippy.rip, DIRECT
+DOMAIN-SUFFIX, morethantv.me, DIRECT
+DOMAIN-SUFFIX, alpharatio.cc, DIRECT
+DOMAIN-SUFFIX, nebulance.io, DIRECT
+DOMAIN-SUFFIX, anthelion.me, DIRECT
+DOMAIN-SUFFIX, avistaz.to, DIRECT
+DOMAIN-SUFFIX, cinemaz.to, DIRECT
+DOMAIN-SUFFIX, filelist.io, DIRECT
