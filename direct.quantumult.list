@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX, aliyun.com, DIRECT
 DOMAIN-SUFFIX, aliyuncs.com, DIRECT
 DOMAIN-SUFFIX, testmyipv6.com, DIRECT
+DOMAIN-SUFFIX, nc.raws.dev, DIRECT
 # 腾讯视频Web, QQ
 DOMAIN-SUFFIX, smtcdns.com , DIRECT
 DOMAIN-SUFFIX, tencent-cloud.com, DIRECT
