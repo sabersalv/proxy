@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX, speedtest.net
   - DOMAIN-SUFFIX, aliyun.com
   - DOMAIN-SUFFIX, aliyuncs.com
   - DOMAIN-SUFFIX, testmyipv6.com
