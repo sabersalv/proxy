@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX, speedtest.net
   - DOMAIN-SUFFIX, aliyun.com
   - DOMAIN-SUFFIX, aliyuncs.com
+  - DOMAIN-SUFFIX, huawei.com
+  - DOMAIN-SUFFIX, huaweicloud.com
   - DOMAIN-SUFFIX, testmyipv6.com
   - DOMAIN-SUFFIX, smtcdns.com # 腾讯视频Web
   - DOMAIN-SUFFIX, tencent-cloud.com # QQ
